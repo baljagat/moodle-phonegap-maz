@@ -2,19 +2,19 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "org.itcilo.ecampusmobile"
+        id        = "com.gruhpath.gruhpathmobile"
         versionCode = "38000"
         android-versionCode = "38001"
         ios-CFBundleVersion = "3.8.0.1"
         version   = "3.8.0">
-    <name>ITCILO eCampus</name>
+    <name>Gruhpath</name>
 
     <description>
-        ITCILO eCampus app
+        Gruhpath official mobile App
     </description>
 
-    <author href="https://ecampus.itcilo.org/" email="">
-       ITCILO eCampus team
+    <author href="https://gruhpath.com/" email="baljagat@gmail.com">
+       Anil Sonune
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
